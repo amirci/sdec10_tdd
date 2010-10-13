@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="MavenThought.MovieLibrary.MovieLibrary" Collapsed="true">
+    <Position X="2.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEIAAAAAAAAAAAAAIAEAAEBAAAAAEAIAAAACAABAAAA=</HashCode>
+      <FileName>MovieLibrary.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="MavenThought.MovieLibrary.IMovie">
+    <Position X="0.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMovie.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MavenThought.MovieLibrary.IMovieCritic">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>IMovieCritic.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MavenThought.MovieLibrary.IMovieFactory" Collapsed="true">
+    <Position X="4.75" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMovieFactory.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="MavenThought.MovieLibrary.IPosterService" Collapsed="true">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IPosterService.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
